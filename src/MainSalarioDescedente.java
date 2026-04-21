@@ -1,7 +1,7 @@
 import java.sql.*;
 import java.util.*;
 
-public class MainSalarioPromedio {
+public class MainSalarioDescedente {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
